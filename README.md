@@ -1,8 +1,8 @@
-**Projeto Power BI - Análise de Folha de Pagamento e Salários**
+### **Projeto Power BI - Análise de Folha de Pagamento e Salários**
 ---
 Este projeto consiste em um dashboard interativo desenvolvido no Power BI para análise de dados salariais, benefícios e impostos de funcionários, categorizados por cargo e faixa salarial.
 
-## 📸 Visualização do Dashboard
+**📸 Visualização do Dashboard**
 
 ### Visão Geral
 <img src="DASH.png" width="900">
