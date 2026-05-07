@@ -5,10 +5,10 @@ Este projeto consiste em um dashboard interativo desenvolvido no Power BI para a
 ## 📸 Visualização do Dashboard
 
 ### Visão Geral
-![Dashboard Geral](./img/DASH.jpg)
+![Dashboard Geral](./img/DASH.png)
 
 ### Visão Filtrada (Exemplo: Administradores)
-![Dashboard Filtrado](./img/DASH.1.jpg)
+![Dashboard Filtrado](./img/DASH.1.png)
 
 **🚀 Descrição do Projeto**
 
